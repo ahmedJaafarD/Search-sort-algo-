@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFSInOrder/DFSInOrder.iml" filepath="$PROJECT_DIR$/DFSInOrder/DFSInOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFSPostOrder/DFSPostOrder.iml" filepath="$PROJECT_DIR$/DFSPostOrder/DFSPostOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFSPreOrder/DFSPreOrder.iml" filepath="$PROJECT_DIR$/DFSPreOrder/DFSPreOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithmSortSearch.iml" filepath="$PROJECT_DIR$/.idea/algorithmSortSearch.iml" />
+    </modules>
+  </component>
+</project>
